@@ -1,0 +1,20 @@
+package j9;
+
+public class j9 {
+int a=4,b=9;
+void calculatesqrt(){
+int sqrt = (int) Math.sqrt(a);
+
+}
+
+void calculatecbrt(){
+	int cubert = (int) Math.cbrt(b);
+}
+	public static void main(String args[]){
+		
+		j9 object = new j9();
+		
+			System.out.println(Sqaure Root is :+j9.sqrt);
+		
+	}
+}

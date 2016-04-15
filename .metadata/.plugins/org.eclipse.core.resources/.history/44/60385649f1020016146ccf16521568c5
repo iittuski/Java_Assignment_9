@@ -1,0 +1,14 @@
+package j9;
+
+public class j9 {
+int a=4,b=9;
+void calculatesqrt(){
+int sqrt = (int) Math.sqrt(a);
+
+}
+	public static void main(String args[]){
+		
+			
+		
+	}
+}
